@@ -1,4 +1,4 @@
-<h1>Implementações restantes do projeto</h1>
+<h3>Implementações restantes do projeto</h3>
 
 <ul>
     <li>Colocar a pemissão de um carro por vez na pista da mesma equipe</li>
@@ -7,7 +7,7 @@
 
 <hr>
 
-<h1>Clonando o diretório no Linux</h1>
-<p>git clone https://github.com/prinetwo/formula1_SO1.git</p>
+<h3>Clonando o diretório no Linux</h3>
+<p>Digite em seu terminal: git clone https://github.com/prinetwo/formula1_SO1.git</p>
 
 
